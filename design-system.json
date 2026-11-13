@@ -1,0 +1,190 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-13T03:30:34Z"
+ },
+ "title": "Shopify Polaris Admin",
+ "namespace": "Polaris",
+ "libraries": [],
+ "sections": {},
+ "groups": [
+  "Icons"
+ ],
+ "assetGroups": {
+  "Icons": {
+   "name": "Icons",
+   "tile": "s",
+   "order": [
+    "HomeIcon.svg",
+    "OrderIcon.svg",
+    "ProductIcon.svg",
+    "CartIcon.svg",
+    "AppsIcon.svg",
+    "SettingsIcon.svg",
+    "ViewIcon.svg",
+    "SearchIcon.svg",
+    "PlusIcon.svg",
+    "EditIcon.svg",
+    "DeleteIcon.svg",
+    "XIcon.svg",
+    "CheckIcon.svg",
+    "CheckCircleIcon.svg",
+    "InfoIcon.svg",
+    "AlertCircleIcon.svg",
+    "AlertTriangleIcon.svg",
+    "QuestionCircleIcon.svg",
+    "ChevronDownIcon.svg",
+    "SelectIcon.svg",
+    "MenuIcon.svg",
+    "ImageIcon.svg"
+   ],
+   "files": {
+    "HomeIcon.svg": {
+     "name": "HomeIcon.svg",
+     "blob": "4c9c13c5ce4cc46784da07f44d144e6b",
+     "size": 570,
+     "type": "image/svg+xml"
+    },
+    "OrderIcon.svg": {
+     "name": "OrderIcon.svg",
+     "blob": "78ee433ba99603b8e2f83058a86c3152",
+     "size": 726,
+     "type": "image/svg+xml"
+    },
+    "ProductIcon.svg": {
+     "name": "ProductIcon.svg",
+     "blob": "d229c3c001cbb3f3e42dd6a1e9c9876b",
+     "size": 524,
+     "type": "image/svg+xml"
+    },
+    "CartIcon.svg": {
+     "name": "CartIcon.svg",
+     "blob": "f74f32c9d5476e2c148206278df6388d",
+     "size": 551,
+     "type": "image/svg+xml"
+    },
+    "AppsIcon.svg": {
+     "name": "AppsIcon.svg",
+     "blob": "a3897b2e0b610e2724fbf864ef40fe4e",
+     "size": 741,
+     "type": "image/svg+xml"
+    },
+    "SettingsIcon.svg": {
+     "name": "SettingsIcon.svg",
+     "blob": "ab58a3eee66d8985302e9345a9af5f29",
+     "size": 2135,
+     "type": "image/svg+xml"
+    },
+    "ViewIcon.svg": {
+     "name": "ViewIcon.svg",
+     "blob": "2156e8a727a9d568c4e404dd4dde4016",
+     "size": 1130,
+     "type": "image/svg+xml"
+    },
+    "SearchIcon.svg": {
+     "name": "SearchIcon.svg",
+     "blob": "c9fe9cb292954b3b6906c0ed39fe96dc",
+     "size": 225,
+     "type": "image/svg+xml"
+    },
+    "PlusIcon.svg": {
+     "name": "PlusIcon.svg",
+     "blob": "71e40d97315d22e18885f50ece4602fa",
+     "size": 280,
+     "type": "image/svg+xml"
+    },
+    "EditIcon.svg": {
+     "name": "EditIcon.svg",
+     "blob": "28a14d3239138851c1cf4598166a1943",
+     "size": 481,
+     "type": "image/svg+xml"
+    },
+    "DeleteIcon.svg": {
+     "name": "DeleteIcon.svg",
+     "blob": "684b69a1d80df806251d773a3eaf342e",
+     "size": 860,
+     "type": "image/svg+xml"
+    },
+    "XIcon.svg": {
+     "name": "XIcon.svg",
+     "blob": "2fed33094c1bacac4c0a7e306ab35e2b",
+     "size": 265,
+     "type": "image/svg+xml"
+    },
+    "CheckIcon.svg": {
+     "name": "CheckIcon.svg",
+     "blob": "1fcd3355110ef2940b0fc4ffa788e678",
+     "size": 233,
+     "type": "image/svg+xml"
+    },
+    "CheckCircleIcon.svg": {
+     "name": "CheckCircleIcon.svg",
+     "blob": "05e08d6f7e5660965330ca317da5b853",
+     "size": 310,
+     "type": "image/svg+xml"
+    },
+    "InfoIcon.svg": {
+     "name": "InfoIcon.svg",
+     "blob": "78f0a0ee117b14d52bf8ed3444fa34a5",
+     "size": 314,
+     "type": "image/svg+xml"
+    },
+    "AlertCircleIcon.svg": {
+     "name": "AlertCircleIcon.svg",
+     "blob": "4f4d6c8131610d785b5d5e5b7605cab8",
+     "size": 315,
+     "type": "image/svg+xml"
+    },
+    "AlertTriangleIcon.svg": {
+     "name": "AlertTriangleIcon.svg",
+     "blob": "3bef719434cf914823ff16fa2a273838",
+     "size": 832,
+     "type": "image/svg+xml"
+    },
+    "QuestionCircleIcon.svg": {
+     "name": "QuestionCircleIcon.svg",
+     "blob": "6167e8d2e01fcfcb8e04dac396649a94",
+     "size": 462,
+     "type": "image/svg+xml"
+    },
+    "ChevronDownIcon.svg": {
+     "name": "ChevronDownIcon.svg",
+     "blob": "bc259d9139ef17f8642b79e09f896e79",
+     "size": 222,
+     "type": "image/svg+xml"
+    },
+    "SelectIcon.svg": {
+     "name": "SelectIcon.svg",
+     "blob": "7bfd24f33b113f94e0a8b50603099db7",
+     "size": 348,
+     "type": "image/svg+xml"
+    },
+    "MenuIcon.svg": {
+     "name": "MenuIcon.svg",
+     "blob": "4f3c082fc61c25bf6f5138e9ee1ba02a",
+     "size": 401,
+     "type": "image/svg+xml"
+    },
+    "ImageIcon.svg": {
+     "name": "ImageIcon.svg",
+     "blob": "fd288e291c3911b67698df54d5e87291",
+     "size": 1507,
+     "type": "image/svg+xml"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "Tuan Dang",
+  "via": "Claude Code",
+  "at": "2026-11-13T03:30:34Z",
+  "note": "Initial Polaris admin system: polaris-tokens 9.4.2 light theme, 22 polaris-icons 9.3.1, 21 component renditions + 2 examples."
+ }
+}

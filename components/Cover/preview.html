@@ -1,0 +1,56 @@
+<!-- @dsCard height=288 -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Shopify Polaris Admin</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap">
+<style>
+  html, body { margin: 0; height: 100%; }
+  body { background: var(--p-color-bg); color: var(--p-color-text); font-family: var(--font-sans); overflow: hidden; }
+  .cover { position: relative; width: 960px; height: 288px; overflow: hidden; }
+  .band { position: absolute; top: 0; left: 0; width: 960px; height: 112px; }
+  .band svg { display: block; width: 960px; height: 112px; }
+  .ink { fill: var(--p-color-bg-fill-brand); }
+  .blue { fill: var(--p-color-bg-fill-emphasis); }
+  .green { fill: var(--p-color-bg-fill-success); }
+  .tint { fill: var(--p-color-bg-fill-info); }
+  .tile { fill: var(--p-color-bg-surface); }
+  .card { rx: var(--p-border-radius-300); }
+  .ctl { rx: var(--p-border-radius-200); }
+  .words { position: absolute; left: var(--p-space-600); right: var(--p-space-600); bottom: var(--p-space-600); }
+  .name { margin: 0; font-size: 64px; line-height: .95; font-weight: var(--p-font-weight-bold); letter-spacing: var(--p-font-letter-spacing-densest); color: var(--p-color-text); white-space: nowrap; }
+  .tag { margin: var(--p-space-200) 0 0 2px; max-width: 440px; font-size: 14px; line-height: 20px; color: var(--p-color-text-secondary); }
+</style>
+</head>
+<body>
+<div class="cover">
+<div class="band" aria-hidden="true">
+<svg viewBox="0 0 960 112" width="960" height="112">
+<!--
+  blocks      p-color-bg-fill-brand 360×124 slab (the near-black primary, largest, bled off the top) · p-color-bg-fill-info 200×92 (the tint) · p-color-bg-fill-emphasis 160×124 (link and focus blue) · p-color-bg-fill-success 120×68 · a second brand block bled off the right edge — about 30% of 960×288
+  arrangement top-band skeleton: a flush strip of unequal cards, bottoms staggered on p-space-400 steps, p-space-400 gutters, the name beneath
+  pattern     "dense UI, Page > Sections > controls": control-height tiles (p-height-700, 28px) cut into the slab in p-color-bg-surface, some merged two-wide like a button group beside a field
+  scales      gutters and row gap p-space-400 / p-space-300; tile height p-height-700; cards rx p-border-radius-300, tiles rx p-border-radius-200
+-->
+<rect class="ink card" x="24" y="-12" width="360" height="124" rx="12"/>
+<rect class="tint card" x="400" y="-12" width="200" height="92" rx="12"/>
+<rect class="blue card" x="616" y="-12" width="160" height="124" rx="12"/>
+<rect class="green card" x="792" y="-12" width="120" height="68" rx="12"/>
+<rect class="ink card" x="928" y="-12" width="80" height="108" rx="12"/>
+<rect class="tile ctl" x="40" y="24" width="168" height="28" rx="8"/>
+<rect class="tile ctl" x="216" y="24" width="64" height="28" rx="8"/>
+<rect class="tile ctl" x="288" y="24" width="80" height="28" rx="8"/>
+<rect class="tile ctl" x="40" y="64" width="96" height="28" rx="8"/>
+<rect class="tile ctl" x="144" y="64" width="224" height="28" rx="8"/>
+<rect class="tile ctl" x="632" y="72" width="64" height="28" rx="8"/>
+<rect class="tile ctl" x="704" y="72" width="56" height="28" rx="8"/>
+</svg>
+</div>
+<div class="words">
+<h1 class="name">Shopify Polaris Admin</h1>
+<p class="tag">The Shopify admin’s design system, for embedded apps.</p>
+</div>
+</div>
+</body>
+</html>
